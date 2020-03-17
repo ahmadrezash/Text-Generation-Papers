@@ -68,9 +68,9 @@ Paper collection of __Neural Text Generation__ tasks, may include __Image Captio
 
 
 ## __GAN__
-- 2016 ___Gans for sequences of discrete elements with the gumbel-softmax distribution___ [[pdf](https://arxiv.org/pdf/1611.04051.pdf)] __(Gumbel-Softmax)__
+- 2016 ___Gans for sequences of discrete elements with the gumbel-softmax distribution___ [[pdf](https://arxiv.org/pdf/1611.04051.pdf)][[arxiv](https://arxiv.org/abs/1611.04051)] __(Gumbel-Softmax)__
 
-- 2017 ___Seqgan: Sequence generative adversarial nets with policy gradient___ [[link](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14344)] __(SeqGAN)__
+- 2016 ___Seqgan: Sequence generative adversarial nets with policy gradient___ [[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14344)][[arxiv](https://arxiv.org/abs/1609.05473)] __(SeqGAN)__
 
 - 2017 ___Maximum-likelihood augmented discrete generative adversarial networks___ [[pdf](https://arxiv.org/pdf/1702.07983)] __(MaliGAN)__
 
